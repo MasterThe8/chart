@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>... Charts | MasterThe8</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="MT82.3.png">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Raleway", sans-serif;
+      text-shadow: 2px 2px #00000052;
+    }
+
+    .neontext {
+      font-size: 35px;
+      position: relative;
+      text-align: center;
+      margin-top: 20px;
+      color: #fff;
+      border: 5px;
+      border-color: rgb(100, 31, 31);
+      padding-bottom: 50px;
+      text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(132, 0, 255),
+        0 0 82px rgb(132, 0, 255),
+        0 0 92px rgb(132, 0, 255),
+        0 0 102px rgb(132, 0, 255),
+        0 0 151px rgb(132, 0, 255);
+    }
+
+
+/* CSS */
+.db {
+  background-color: #41d846;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttong {
+  background-color: rgb(0, 37, 16); 
+  color:white; 
+  border: 3px solid #41d846;
+}
+
+.buttong:hover {
+  background-color: #41d846;
+  color: white;
+}
+  </style>
+</head>
+
+<body class="w3-black w3-content" style="max-width:1600px; background-color: black;">
+
+  <!-- Sidebar/menu -->
+  <nav class="w3-sidebar w3-collapse w3-deep-purple w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+    <div class="w3-container">
+      <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey"
+        title="close menu">
+        <i class="fa fa-remove"></i>
+      </a>
+      <img src="MT82.3.png" style="width:45%;" class="w3-round"><br><br>
+      <h4><b>My Discord :<br>MasterThe8#9100</b></h4>
+    </div>
+    <div class="w3-bar-block">
+      <a href="index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding" style="color: rgb(44, 150, 221); font-weight: bold; text-shadow: 0 0 0.5em #000;">Home</a>
+    <a href="https://chorus.fightthe.pw/search?query=MasterThe8" onclick="w3_close()"
+      class="w3-bar-item w3-button w3-padding"
+      style="color: rgb(255, 217, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">Chorus</a>
+    <a href="https://www.youtube.com/c/MasterThe8" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+      style="color: rgb(255, 0, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">YouTube</a>
+    </div>
+  </nav>
+
+  <!-- Overlay effect when opening sidebar on small screens -->
+  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer"
+    title="close side menu" id="myOverlay"></div>
+
+  <!-- !PAGE CONTENT! -->
+  <div class="w3-main" style="margin-left:300px">
+
+    <!-- Header -->
+    <header id="portfolio">
+      <a href="#"><img src="MT82.3.png" style="width:65px;"
+          class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+      <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i
+          class="fa fa-bars"></i></span>
+      <div class="w3-container">
+        <h1 class="neontext"><b>... Charts | MasterThe8</b></h1>
+      </div>
+    </header>
+
+    <!-- Photo Grid 1 -->
+    <div class="w3-row-padding">
+        <!-- Content 1.1 -->
+        <div class="w3-third w3-container w3-margin-bottom">
+            <!-- album -->
+            <img src="#" alt="chart_album"
+            style="width:100%" class="w3-hover-opacity">
+            <div class="w3-container w3-deep-purple">
+            <!-- metadata -->
+            <p style="font-size: 18px;"><b>Song Title</b></p>
+            <p>🎵 Title<br>🗣️ Artist<br>💿 Album<br> ⚧ Genre<br>📅 20<br>💥 Expert</p>
+            <!-- diff icon -->
+            <img src="#" style="width: 10%;"></img><br><br>
+            <!-- Preview link -->
+            <a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+            <!-- Download link -->
+            <a href="#" target="_blank"><button class="db buttong">Download</button></a><br>
+            </div>
+        </div>
+    </div>
+
+    <a href="index.html"><h6 style="text-align:center;">Back to Homepage</h6></a>
+
+
+    <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://000webhost.com" title="W3.CSS" target="_blank"
+        class="w3-hover-opacity">000webhost</a> and <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS"
+        target="_blank" class="w3-hover-opacity">w3.css</a></div>
+
+    <!-- End page content -->
+  </div>
+
+  <script>
+    // Script to open and close sidebar
+    function w3_open() {
+      document.getElementById("mySidebar").style.display = "block";
+      document.getElementById("myOverlay").style.display = "block";
+    }
+
+    function w3_close() {
+      document.getElementById("mySidebar").style.display = "none";
+      document.getElementById("myOverlay").style.display = "none";
+    }
+  </script>
+
+</body>
+
+</html>

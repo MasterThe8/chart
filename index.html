@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>MasterThe8 Charts</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="MT82.3.png">
+<link rel="stylesheet" href="w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+  integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+  crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif; text-shadow: 2px 2px #00000052;}
+.neontext {
+    font-size: 35px;
+    position: relative;
+    text-align: center;
+    color: #fff;
+    border: 5px;
+    border-color: rgb(100, 31, 31);
+    padding-bottom: 50px;
+    margin-top: 0px;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(132, 0, 255),
+        0 0 82px rgb(132, 0, 255),
+        0 0 92px rgb(132, 0, 255),
+        0 0 102px rgb(132, 0, 255),
+        0 0 151px rgb(132, 0, 255);
+}
+
+.chlogo {
+  position: relative;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* CSS */
+.button-85 {
+  /*move button to center*/
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0.6em 2em;
+  border: none;
+  outline: none;
+  color: rgb(255, 255, 255);
+  background: #111;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  font-weight: bold;
+
+}
+
+.button-85:before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing-button-85 20s linear infinite;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+@keyframes glowing-button-85 {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.button-85:after {
+  z-index: -1;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #222;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+/* CSS */
+.button-36 {
+  position:relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: linear-gradient(92.88deg, #455EB5 9.16%, #5643CC 43.89%, #673FD7 64.72%);
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  flex-shrink: 0;
+  font-family: "Inter UI","SF Pro Display",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  height: 4rem;
+  padding: 0 1.6rem;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+  transition: all .5s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  
+}
+
+.button-36:hover {
+  box-shadow: rgba(80, 63, 205, 0.5) 0 1px 30px;
+  transition-duration: .1s;
+}
+
+@media (min-width: 768px) {
+  .button-36 {
+    padding: 0 2.6rem;
+  }
+}
+
+.chdownsection{
+  background-color: #160524;
+  padding-top: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color:#fff;
+  border-width: 2px;
+  margin: 20px 20px;
+  box-shadow: rgba(255, 0, 149, 0.342) 2px 2px 4px 2px, 
+rgba(255, 0, 191, 0.32) 0px 2px 16px 0px;
+}
+
+/* Contact Icon Style */
+:root
+{
+    --bg:rgb(0, 0, 0);
+}
+
+
+ul{
+  /*move to center*/
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 0px;
+    background: var(--bg);
+    position: relative;
+    display: flex;
+    gap:50px;
+}
+
+ul li {
+    position: relative;
+    list-style: none;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+ul li:hover {
+    z-index: 10000;
+    transform: scale(0.75);
+}
+
+ul li::before {
+    content: '';
+    position: absolute;
+    inset: 30px;
+    box-shadow: 0 0 0 10px var(--clr), 0 0 0 20px var(--bg), 0 0 0 22px var(--clr);
+    transition: 0.5s;
+}
+
+ul li:hover::before{
+    inset: 0px;
+}
+
+ul li::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--bg);
+    transform: rotate(45deg);
+}
+
+ul li a {
+    position:relative;
+    text-decoration: none;
+    color: var(--clr);
+    z-index: 10;
+    font-size: 2em;
+    transition: 0.5s;
+}
+
+ul li:hover a {
+    font-size: 3em;
+    filter: drop-shadow(0 0 20px var(--clr)) drop-shadow(0 0 40px var(--clr)) drop-shadow(0 0 60px var(--clr));
+}
+
+</style>
+</head>
+<body class="w3-black w3-content" style="max-width:1600px; background-color: black;">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-collapse w3-deep-purple w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <div class="w3-container">
+    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+      <i class="fa fa-remove"></i>
+    </a>
+    <img src="MT82.3.png" style="width:45%;" class="w3-round"><br><br>
+    <h4><b>My Discord :<br>MasterThe8#9100</b></h4>
+  </div>
+  <div class="w3-bar-block">
+    <a href="https://chorus.fightthe.pw/search?query=MasterThe8" onclick="w3_close()" class="w3-bar-item w3-button w3-padding" style="color: rgb(255, 217, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">Chorus</a>
+    <a href="https://www.youtube.com/c/MasterThe8" onclick="w3_close()" class="w3-bar-item w3-button w3-padding" style="color: rgb(255, 0, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">YouTube</a>
+                <a href="https://masterthe8.github.io/chart/project_chart" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+                  style="color: rgb(4, 214, 120); font-weight: bold; text-shadow: 0 0 0.5em #000;">Project</a>
+                <a href="https://masterthe8.github.io/chart/ot_chart" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+                  style="color: rgb(51, 182, 22); font-weight: bold; text-shadow: 0 0 0.5em #000;">Other Charter (ID)</a>
+  </div>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:300px">
+
+  <!-- Header -->
+  <header id="portfolio">
+
+    <img src="MT82.3.png" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity">
+    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+    <div class="w3-container">
+    <h1 class="neontext" style="margin-top: 20px;"><b>MasterThe8 Charts</b></h1>
+    </div>
+  </header>
+
+  
+  <!-- Button -->
+  <h5 style="text-align:center;">Just trying to make a personal website.</h5><br><br>
+  <a href="id_chart.html"><button style="color:#ff0000" class="button-85" role="button">Indonesian Charts</button><br><br></a>
+  <a href="jp_chart.html"><button style="color:#ff00d4" class="button-85" role="button">Japan/Anime Charts</button><br><br></a>
+  <a href="kr_chart.html"><button style="color:#c300ff" class="button-85" role="button">K-POP Charts</button><br><br></a>
+  <a href="en_chart.html"><button style="color:#002bff" class="button-85" role="button">ENG/Instrumental/Other Charts</button></a><br><br>
+  <a href="https://chorus.fightthe.pw/search?query=MasterThe8" target="_blank"><button style="color:#00ff00" class="button-85" role="button">All My Charts</button></a><br><br>
+  <a href="project_chart.html"><button style="color:#10cee7" class="button-85" role="button">Project</button></a><br><br>
+  <a href="ot_chart.html"><button style="color:#d0ff00" class="button-85" role="button">Other Chorus Charter (ID)</button></a><br><br>
+
+
+  <div class="chdownsection">
+  <!-- CH download -->
+  <img src="ch.png" class="chlogo">
+  <p style="text-align: center;">Clone Hero is a free rhythm game, which can be played with any 5 or 6 button guitar controller, game controllers, or
+  just your standard computer keyboard. Download the game, copy your song charts into the song folder and enjoy hours of
+  fun!</p><br><br>
+  <a href="https://clonehero.net" target="_blank"><button class="button-36" role="button">Download</button></a>
+  </div>
+
+  <!-- contact id -->
+  <div class="contactid">
+    <h2 style="text-align: center; font-weight: bold; background-color: #c40e0e;margin-bottom: 20px;">Clone Hero Indonesia</h2>
+        <ul>
+          <li style="--clr: #7289da;"><a href="https://discord.gg/aMBd7YbWfn"><i class="fa-brands fa-discord"></i></a></li>
+          <li style="--clr: #0444bb;"><a href="https://web.facebook.com/groups/1670008826393527/"><i class="fa-brands fa-facebook"></i></a></li>
+          <li style="--clr: #0fb826;"><a href="https://chat.whatsapp.com/CQPMn8IcyNcC0Nc2Pc12q0"><i class="fa-brands fa-whatsapp"></i></a></li>
+        </ul>
+  </div>
+
+  <!-- contact me -->
+  <div class="contactme">
+  <h2 style="text-align: center; font-weight: bold; background-color: #5e0094; margin-top: 20px; margin-bottom: 20px;">Follow Me</h2>
+        <ul>
+          <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/c/MasterThe8"><i class="fa-brands fa-youtube"></i></a></li>
+          <li style="--clr: #044dbb;"><a href="https://web.facebook.com/reza.namja.359"><i class="fa-brands fa-facebook"></i></a></li>
+          <li style="--clr: #575757;"><a href="https://github.com/MasterThe8"><i class="fa-brands fa-github"></i></a></li>
+        </ul>
+        <ul>
+          <li style="--clr: #008cff;"><a href="https://steamcommunity.com/id/masterthe8"><i class="fa-brands fa-steam"></i></a></li>
+          <li style="--clr: #00acee;"><a href="https://twitter.com/MasterThe81"><i class="fa-brands fa-twitter"></i></a></li>
+        </ul>
+  </div>
+  <!-- Footer -->
+        <div class="w3-lblack w3-center w3-padding-24">
+          <h5><b>MasterThe8</b><br></h5>
+        
+          <h5>Powered by
+            <a href="https://github.com/" target="_blank" class="w3-hover-opacity">GitHub</a>
+            &
+            <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">W3</a>
+          </h5>
+        </div>
+
+<!-- End page content -->
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+</body>
+</html>

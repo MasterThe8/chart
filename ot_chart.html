@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Other Chorus Charter (ID) | MasterThe8</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="MT82.3.png">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+    body,
+    h1,
+    h2,
+    h3,    h4,
+    h5,
+    h6 {
+      font-family: "Raleway", sans-serif;
+      text-shadow: 2px 2px #00000052;
+    }
+
+    .neontext {
+      font-size: 35px;
+      position: relative;
+      text-align: center;
+      margin-top: 20px;
+      color: #fff;
+      border: 5px;
+      border-color: rgb(100, 31, 31);
+      padding-bottom: 50px;
+      text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px rgb(132, 0, 255),
+        0 0 82px rgb(132, 0, 255),
+        0 0 92px rgb(132, 0, 255),
+        0 0 102px rgb(132, 0, 255),
+        0 0 151px rgb(132, 0, 255);
+    }
+
+.backbox:hover {
+    cursor:pointer;
+    background-color: rgb(73, 173, 193);
+    color: black;
+}
+
+
+
+
+/* CSS */
+.db {
+  background-color: #41d846;
+  border: none;
+  color: white;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.buttong {
+  background-color: rgb(0, 37, 16); 
+  color:white; 
+  border: 3px solid #41d846;
+}
+
+.buttong:hover {
+  background-color: #41d846;
+  color: white;
+}
+
+/* Contact Icon Style */
+:root
+{
+    --bg:#060c21;
+}
+
+
+ul{
+  /*move to center*/
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 0px;
+    background: var(--bg);
+    position: relative;
+    display: flex;
+    gap:50px;
+}
+
+ul li {
+    position: relative;
+    list-style: none;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+ul li:hover {
+    z-index: 10000;
+    transform: scale(0.75);
+}
+
+ul li::before {
+    content: '';
+    position: absolute;
+    inset: 30px;
+    box-shadow: 0 0 0 10px var(--clr), 0 0 0 20px var(--bg), 0 0 0 22px var(--clr);
+    transition: 0.5s;
+}
+
+ul li:hover::before{
+    inset: 0px;
+}
+
+ul li::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--bg);
+    transform: rotate(45deg);
+}
+
+ul li a {
+    position:relative;
+    text-decoration: none;
+    color: var(--clr);
+    z-index: 10;
+    font-size: 2em;
+    transition: 0.5s;
+}
+
+ul li:hover a {
+    font-size: 3em;
+    filter: drop-shadow(0 0 20px var(--clr)) drop-shadow(0 0 40px var(--clr)) drop-shadow(0 0 60px var(--clr));
+}
+
+
+.cbox {
+    background-color: #060c21;
+    box-shadow: rgba(0, 255, 55, 0.342) 2px 2px 4px 2px, 
+    rgba(0, 255, 149, 0.32) 0px 2px 16px 0px;
+    margin-top: 15px;
+    width: auto;
+    height: 400px;
+    padding: 20px 20px;
+    margin: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #00eeff;
+}
+
+.cbox .cicon {
+    width: 100px;
+    height: auto;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.cbox .gamebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cbox .gamebox .imgames{
+  width:30px;
+  height:30px;
+  position: relative;
+  margin:5px;
+}
+
+.cbox .rolebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cbox .rolebox .imrole {
+  height: 40px;
+  width:auto;
+  position: relative;
+}
+
+.cbox h5 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+
+
+
+</style>
+</head>
+
+<body class="w3-black w3-content" style="max-width:1600px; background-color: black;">
+
+  <!-- Sidebar/menu -->
+  <nav class="w3-sidebar w3-collapse w3-deep-purple w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+    <div class="w3-container">
+      <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey"
+        title="close menu">
+        <i class="fa fa-remove"></i>
+      </a>
+      <img src="MT82.3.png" style="width:45%;" class="w3-round"><br><br>
+      <h4><b>My Discord :<br>MasterThe8#9100</b></h4>
+    </div>
+    <div class="w3-bar-block">
+      <a href="index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-padding" style="color: rgb(44, 150, 221); font-weight: bold; text-shadow: 0 0 0.5em #000;">Home</a>
+    <a href="https://chorus.fightthe.pw/search?query=MasterThe8" onclick="w3_close()"
+      class="w3-bar-item w3-button w3-padding"
+      style="color: rgb(255, 217, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">Chorus</a>
+    <a href="https://www.youtube.com/c/MasterThe8" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+      style="color: rgb(255, 0, 0); font-weight: bold; text-shadow: 0 0 0.5em #000;">YouTube</a>
+                <a href="https://masterthe8.github.io/chart/project_chart" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+                  style="color: rgb(4, 214, 120); font-weight: bold; text-shadow: 0 0 0.5em #000;">Project</a>
+                <a href="https://masterthe8.github.io/chart/ot_chart" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"
+                  style="color: rgb(51, 182, 22); font-weight: bold; text-shadow: 0 0 0.5em #000;">Other Charter (ID)</a>
+    </div>
+  </nav>
+
+  <!-- Overlay effect when opening sidebar on small screens -->
+  <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer"
+    title="close side menu" id="myOverlay"></div>
+
+  <!-- !PAGE CONTENT! -->
+  <div class="w3-main" style="margin-left:300px">
+
+    <!-- Header -->
+    <header id="portfolio">
+      <a href="#"><img src="MT82.3.png" style="width:65px;"
+          class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+      <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i
+          class="fa fa-bars"></i></span>
+      <div class="w3-container">
+        <h1 class="neontext"><b>Other Charter (ID)</b></h1>
+      </div>
+    </header>
+
+
+
+
+
+
+
+
+
+    <!-- Ismaya Melasrana -->
+    <div class="cbox">
+        <img class="cicon" src="melasrana.png" alt="Avatar" style="border-radius: 50%;">
+        <h5>Ismaya Melasrana</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/ch_verified.png">
+        <img class="imrole" src="role/wcc_charter.png">
+      </div>
+        <ul>
+          <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/c/RanzChannel"><i class="fa-brands fa-youtube"></i></a>
+          </li>
+          <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/c/IsmayaMelasrana"><i
+                class="fa-brands fa-youtube"></i></a></li>
+          <li style="--clr: #e0bf00;"><a href="https://chorus.fightthe.pw/search?query=Ismaya%20Melasrana"><img
+                src="ch_icon.png" style="width: 35px;"></a></li>
+          <li style="--clr: #00a023;"><a
+              href="https://drive.google.com/drive/folders/1-3fs9fb3l70IlZfSz8K_5v2H3yFy8VBv?usp=sharing"><i
+                class="fa-brands fa-google-drive"></i></a></li>
+        </ul>
+    </div>
+
+    <!-- DJosef -->
+    <div class="cbox">
+      <img class="cicon" src="nikko.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>DJosef</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/ch_charter.png">
+      </div>
+        <ul>
+          <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UCdcAxPDXQBDSDCwszJo5pQw"><i
+                class="fa-brands fa-youtube"></i></a></li>
+          <li style="--clr: #e0bf00;"><a href="https://chorus.fightthe.pw/search?query=DJosef"><img src="ch_icon.png"
+                style="width: 35px;"></a></li>
+          <li style="--clr: #00a023;"><a
+              href="https://drive.google.com/drive/folders/1cuNEdW0vuqTyStAsadSnYpebiD4N5aeZ?usp=sharing"><i
+                class="fa-brands fa-google-drive"></i></a></li>
+        </ul>
+    </div>
+
+
+    <!-- Naupaw -->
+    <div class="cbox">
+      <img class="cicon" src="nau.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Naupaw</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/ch_charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/user/w3pedox"><i
+              class="fa-brands fa-youtube"></i></a></li>
+        <li style="--clr: #e0bf00;"><a href="https://chorus.fightthe.pw/search?query=Naupaw"><img src="ch_icon.png"
+              style="width: 35px;"></a></li>
+        <li style="--clr: #00a023;"><a
+            href="https://drive.google.com/drive/folders/1QJkgtfqDRMzlrTmHyOHTTKy2QY1_kmAL?usp=sharing"><i
+              class="fa-brands fa-google-drive"></i></a></li>
+      </ul>
+    </div>
+
+    <!-- Fenix12 -->
+    <div class="cbox">
+      <img class="cicon" src="user.png" alt="Avatar" style="border-radius: 50%;">
+      <h5>Fenix12</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/ch_charter.png">
+      </div>
+        <ul>
+          <li style="--clr: #e0bf00;"><a href="https://chorus.fightthe.pw/search?query=Fenix12"><img src="ch_icon.png"
+                style="width: 35px;"></a></li>
+          <li style="--clr: #00a023;"><a
+              href="https://drive.google.com/drive/folders/1D4-_uFXyeIeGYYMRTDoEpAvcvJGRWPh2?usp=sharing"><i
+                class="fa-brands fa-google-drive"></i></a></li>
+        </ul>
+    </div>
+
+    <!-- MRFKontesSEO -->
+    <div class="cbox">
+      <img class="cicon" src="user.png" alt="Avatar" style="border-radius: 50%;">
+      <h5>MRFKontesSEO</h5>
+      <div class="gamebox">
+      <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/ch_charter.png">
+      </div>
+        <ul>
+          <li style="--clr: #e0bf00;"><a href="https://chorus.fightthe.pw/search?query=MRFKontesSEO"><img src="ch_icon.png"
+                style="width: 35px;"></a></li>
+          <li style="--clr: #00a023;"><a
+              href="https://drive.google.com/drive/folders/1CQplw6w6GbUGB92f_0ErlYJF-MTNE41b?usp=sharing"><i
+                class="fa-brands fa-google-drive"></i></a></li>
+        </ul>
+    </div>
+
+    <!-- Fbs13 -->
+    <div class="cbox">
+      <img class="cicon" src="fbs13.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Fbs13</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_rb.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/c3_charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UCMdLmihryzo-4JcrWOoT3GQ"><i
+              class="fa-brands fa-youtube"></i></a></li>
+        <li style="--clr: #e0bf00;"><a href="http://p.c3universe.com/fbs13"><img src="c3db.png"
+              style="width: 35px;"></a></li>
+      </ul>
+    </div>
+
+    <!-- Vera LoveLove -->
+    <div class="cbox">
+      <img class="cicon" src="vera.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Vera Love-Love</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_rb.png">
+        <img class="imgames" src="role/game_gh.png">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/c3_charter.png">
+      </div>
+        <ul>
+            <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UC-8uRS0HulSFkOSVcvmRwXw"><i class="fa-brands fa-youtube"></i></a></li>
+            <li style="--clr: #e0bf00;"><a href="http://p.c3universe.com/veralovelove"><img src="c3db.png" style="width: 35px;"></a></li>
+            <li style="--clr: #e18c1c;"><a href="https://veralove5.blogspot.com/"><i class="fa-brands fa-blogger-b"></i></a></li>
+        </ul>
+      </div>
+
+    <!-- TR•Chariot -->
+    <div class="cbox">
+      <img class="cicon" src="chariot.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>TR•Chariot</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+        <ul>
+            <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UC52vwt00BWYvkoFJM-ok3xw"><i class="fa-brands fa-youtube"></i></a></li>
+        </ul>
+      </div>
+
+    <!-- Niv47 -->
+    <div class="cbox">
+      <img class="cicon" src="niv.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Niv47</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_rb.png">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+        <ul>
+            <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/c/Niv47"><i class="fa-brands fa-youtube"></i></a></li>
+        </ul>
+      </div>
+
+
+    <!-- THE DREAMING CHART -->
+    <div class="cbox">
+      <img class="cicon" src="tdc.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>THE DREAMING CHART</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+        <ul>
+            <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UC1qyO9gtwXoYCR3UW6qroMw"><i class="fa-brands fa-youtube"></i></a></li>
+        </ul>
+      </div>
+
+
+    <!-- Anankrin Prime -->
+    <div class="cbox">
+      <img class="cicon" src="anankrin.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Anankrin Prime</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+        <img class="imgames" src="role/game_gh.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/c/AnankrinPrime94"><i
+              class="fa-brands fa-youtube"></i></a></li>
+      </ul>
+    </div>
+
+    <!-- Fajar Charter -->
+    <div class="cbox">
+      <img class="cicon" src="fajar.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Fajar Charter</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UCDVPkIjBfauTiZJEaQLoxTQ"><i
+              class="fa-brands fa-youtube"></i></a></li>
+      </ul>
+    </div>
+
+    <!-- Abede -->
+    <div class="cbox">
+      <img class="cicon" src="abd.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Abede</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UCLDA3jWwmjf_sSxNbcTGllg"><i class="fa-brands fa-youtube"></i></a></li>
+      </ul>
+    </div>
+
+    <!-- Indra Constantine -->
+    <div class="cbox">
+      <img class="cicon" src="indra.jpg" alt="Avatar" style="border-radius: 50%;">
+      <h5>Indra Constantine</h5>
+      <div class="gamebox">
+        <img class="imgames" src="role/game_ch.png">
+      </div>
+      <div class="rolebox">
+        <img class="imrole" src="role/charter.png">
+      </div>
+      <ul>
+        <li style="--clr: #ee0c0c;"><a href="https://www.youtube.com/channel/UCPAHvq304ftoyKQy054WGoQ"><i
+              class="fa-brands fa-youtube"></i></a></li>
+        <li style="--clr: #e18c1c;"><a href="https://indraconstantine.blogspot.com"><i
+              class="fa-brands fa-blogger-b"></i></a></li>
+      </ul>
+    </div>
+
+<a href="index.html">
+    <div class="backbox">
+    <h6>Back to Homepage</h6>
+    </div>
+</a>
+
+        <div class="w3-lblack w3-center w3-padding-24">
+          <h5><b>MasterThe8</b><br></h5>
+        
+          <h5>Powered by
+            <a href="https://github.com/" target="_blank" class="w3-hover-opacity">GitHub</a>
+            &
+            <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">W3</a>
+          </h5>
+        </div>
+
+    <!-- End page content -->
+  </div>
+
+  <script>
+    // Script to open and close sidebar
+    function w3_open() {
+      document.getElementById("mySidebar").style.display = "block";
+      document.getElementById("myOverlay").style.display = "block";
+    }
+
+    function w3_close() {
+      document.getElementById("mySidebar").style.display = "none";
+      document.getElementById("myOverlay").style.display = "none";
+    }
+
+  </script>
+
+</body>
+
+</html>
