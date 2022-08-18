@@ -1,0 +1,17 @@
+<!-- Card id_2.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1B9SBUGAvNxwq69lqNuvTV9YZlzTyypd8" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Voice of Baceprot - [NOT] PUBLIC PROPERTY</h5>
+	<p>🎵 [NOT] PUBLIC PROPERTY<br>🗣️ Voice of Baceprot<br>💿 [NOT] PUBLIC PROPERTY<br>&nbsp;⚧&ensp;Alternative Metal<br>📅 2022<br>💥 All Difficulty</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1iSm9N6HirtVh4qJ9X6Ffu84cYC2UYJpw?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

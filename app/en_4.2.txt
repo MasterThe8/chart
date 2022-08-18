@@ -1,0 +1,17 @@
+<!-- Card en_4.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1xL97wweY83irHxHFHKJza_5xC6JiIyQR" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - Forest of the Unholy</h5>
+	<p>🎵 Forest of the Unholy<br>🗣️ LEAF XCEED Music Division<br>💿 Good Knight Original Soundtrack<br>&nbsp;⚧&ensp;Soundtrack<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1o39xotA7UnvKKgPFQQJQLkqN2Ux6_gJU" style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1uSHUMzTDvu4nWWL68AnQa1Q_LHuMGZx8"style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1F-HDeHF24RsDVYOh2RUH8hRd0-wprR6c"style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=pMBZ0N2yH2Q" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1r3uxCRko_AaqneYkmOBox5mPAkX6pO3-" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

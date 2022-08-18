@@ -1,0 +1,15 @@
+YouTube f16a
+<i class="fa fa-youtube-play" aria-hidden="true"></i>
+
+Instagram f16d
+<i class="fa fa-instagram" aria-hidden="true"></i>
+
+Twitter f099
+<i class="fa fa-twitter" aria-hidden="true"></i>
+
+Facebook f230
+<i class="fa fa-facebook-official" aria-hidden="true"></i>
+
+GitHub f09b
+<i class="fa fa-github" aria-hidden="true"></i>
+

@@ -1,0 +1,17 @@
+<!-- Card kr_2.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1IhZR28RbDgR-xLBPWC-a-PSTNSdjMnml" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Red Velvet - La Rouge (Special Track)</h5>
+	<p>🎵 La Rouge (Special Track)<br>🗣️ Red Velvet<br>💿 The ReVe Festival Finale<br>&nbsp;⚧&ensp;K-Pop<br>📅 2019<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1GbEdqecJov6uL4zSHNfqQldBM9uT1ddb" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=sBepPY_JWWk" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1F3Q9yYIMu7OYNnY7i8WiCYXb-DYvu4Ug?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

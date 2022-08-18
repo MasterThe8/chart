@@ -1,0 +1,17 @@
+<!-- Card jp_4.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1xQONxyMLZPkYOlwe9Ilu8KQYRSG8ncB6" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>IIIX - Bang Bang</h5>
+	<p>🎵 Bang Bang<br>🗣️ IIIX<br>💿 [IDOLY PRIDE] Sore wo Hito wa Seishun to Yonda<br>&nbsp;⚧&ensp;Idol, Games<br>📅 2022<br>💥 2</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1GbEdqecJov6uL4zSHNfqQldBM9uT1ddb" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/10z8ItEFfRIQWjCvyxR2ly9qP4CzhEWEi?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

@@ -1,0 +1,17 @@
+<!-- Card en_3.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1WLL4xplYl9gi3zCnwZJ3S3BvoZG-kjfx" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - Interludio</h5>
+	<p>🎵 Interludio<br>🗣️ LEAF XCEED Music Division<br>💿 Fragments Of Time<br>&nbsp;⚧&ensp;Instrumental<br>📅 2014<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1Xf837zoJEJEG1zkiElWZPr6_wBk0qaCM" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=yuNYezxM3Vs" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1P-bF5SPHN_m1q_4dwZ-LLRv9m1Go_ChE" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

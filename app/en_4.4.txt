@@ -1,0 +1,17 @@
+<!-- Card en_4.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1xL97wweY83irHxHFHKJza_5xC6JiIyQR" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - The Bullets Go Awry</h5>
+	<p>🎵 The Bullets Go Awry<br>🗣️ LEAF XCEED Music Division<br>💿 <br>&nbsp;⚧&ensp;Soundtrack<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1R-XK7vZqns9LsNQ9fzQrf1xQZ8drBsHD" style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1uSHUMzTDvu4nWWL68AnQa1Q_LHuMGZx8"style="width:10%"><img src="https://drive.google.com/uc?export=view&id=1F-HDeHF24RsDVYOh2RUH8hRd0-wprR6c"style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=bgwkcM_UVK8" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1SVPl8O8dPx7KA6zQZx0bCiop7jcQuKI6" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

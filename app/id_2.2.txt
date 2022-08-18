@@ -1,0 +1,17 @@
+<!-- Card id_2.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1RqOhAHysSZsolDfNpMx_nzSDNHJYw2ih" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>NTRL - Joni Playboy</h5>
+	<p>🎵 Joni Playboy<br>🗣️ NTRL<br>💿 XXV<br>&nbsp;⚧&ensp;Alternative/Indie Pop/Indie Rock<br>📅 2018<br>💥 All Difficulty</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1dM0DUoUr2sq1ocGrMd-KoaDH8Z9bOVxn?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

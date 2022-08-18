@@ -1,0 +1,17 @@
+<!-- Card id_1.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=14JI1lEq1QtMKK8-76aO03oo0opXojPK7" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Marjinal - Godam Rakyat</h5>
+	<p>🎵 Godam Rakyat<br>🗣️ Marjinal<br>💿 Anti Fascist and Racist Action<br>&nbsp;⚧&ensp;Rock<br>📅 2016<br>💥 All Difficulty</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="f" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/15VTomXNgW0oL_4WVnDJZ4hWCwLADkUUT?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

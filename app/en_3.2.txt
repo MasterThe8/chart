@@ -1,0 +1,17 @@
+<!-- Card en_3.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1NeaWVSyQOiHFviefQfaZ2f8ovv7diYll" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - Hallowed Halls</h5>
+	<p>🎵 Hallowed Halls<br>🗣️ LEAF XCEED Music Division<br>💿 Shadow Masquerade<br>&nbsp;⚧&ensp;Instrumental<br>📅 2013<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=E6sSP0ImFvo" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/13gkm2rRnt3AuX1IFlMrhRdsT-qXFa_SJ" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

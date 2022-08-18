@@ -1,0 +1,17 @@
+<!-- Card jp_4.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1WcSkEy-_20EUpk8Hf7BLwhdiZQ8fXYgJ" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LizNoir - GIRI-GIRI borderless world (Rio & Aoi version)</h5>
+	<p>🎵 GIRI-GIRI borderless world (Rio & Aoi version)<br>🗣️ LizNoir<br>💿 GIRI-GIRI borderless world (Rio & Aoi version)<br>&nbsp;⚧&ensp;Idol, Games<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1YsTLdKDQHKtyJU2gVtwgwGuuI9gYP4Kn?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

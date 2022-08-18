@@ -1,0 +1,17 @@
+<!-- Card jp_1.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1qgcaAEquzRTZjwAmeOnQdaypibEvWff2" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Baby's breath - HOWLING</h5>
+	<p>🎵 HOWLING<br>🗣️ Baby's breath<br>💿 Tenshi no 3P!: Three Angels Complete<br>&nbsp;⚧&ensp;J-Rock, Anime<br>📅 2017<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=pXAt9vEAswc" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1zud3QER8-SvYmKZKHUnzD7q0WMTOBjgG" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

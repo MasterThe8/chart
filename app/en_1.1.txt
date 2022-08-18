@@ -1,0 +1,17 @@
+<!-- Card en_1.1 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1m6S1d6M9VZI14peYsawRchbwphfFu2Ax" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Amon Amarth - The Way of Vikings</h5>
+	<p>🎵 The Way of Vikings<br>🗣️ Amon Amarth<br>💿 Jomsviking<br>&nbsp;⚧&ensp;Metal<br>📅 2016<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=5nP4K52ssQo" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1cLD4dAQKVMRK3jU0onaxKqRzeF3INSJe" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

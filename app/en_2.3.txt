@@ -1,0 +1,17 @@
+<!-- Card en_2.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1z0iOQLWC2oDv4vdfUTZn1TGJa9s_LhrL" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - Breaking The Habit (Linkin Park Remix)</h5>
+	<p>🎵 Breaking The Habit (Linkin Park Remix)<br>🗣️ LEAF XCEED Music Division<br>💿 Website Releases III<br>&nbsp;⚧&ensp;Rock<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=osGAr8g3PjA" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1kO4wiTZNNQC_YE4OvrbLYzyl-7AWiCzt" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

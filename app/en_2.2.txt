@@ -1,0 +1,17 @@
+<!-- Card en_2.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1HDbYLNfRus8ADc3m1_exyY8FSbAfqCBe" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Tore Fagerheim - Into the Void</h5>
+	<p>🎵 Into the Void<br>🗣️ Tore Fagerheim<br>💿 The Uprising<br>&nbsp;⚧&ensp;Metal<br>📅 2016<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=1OtO7UNHdt4" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/114axWyYwKOLD59nPbU0uR1R1ZhwKnKIt" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

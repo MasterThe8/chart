@@ -1,0 +1,17 @@
+<!-- Card kr_1.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1BFUykdBl0dhx520UVCJd8rY25_GkPENI" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Girl's Day - Ring My Bell</h5>
+	<p>🎵 Ring My Bell<br>🗣️ Girl's Day<br>💿 Girl's Day Love Second Album<br>&nbsp;⚧&ensp;K-Pop<br>📅 2015<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=jvHBKoTrDyo" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1UsLsFqevlGrejn-e7zmNq90dU7xSX3a7?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

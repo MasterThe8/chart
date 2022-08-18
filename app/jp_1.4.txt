@@ -1,0 +1,17 @@
+<!-- Card jp_1.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1svUr-JXFLVaDdXrZN92CPC4W9c-X5CgZ" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Baby's breath - STAND UP!</h5>
+	<p>🎵 STAND UP!<br>🗣️ Baby's breath<br>💿 Tenshi no 3P! Special CD 1<br>&nbsp;⚧&ensp;J-Rock, Anime<br>📅 2017<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=5mVL__ToCys" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1cfBFmQSCHXhURTxp7wi8uSg2GFEvF9V0" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

@@ -1,0 +1,17 @@
+<!-- Card jp_3.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1UuY7C1znnG8sqggGcM6_L3SUVQ-TXDmg" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>TUYU - Perhaps I'll be able to become the Sun</h5>
+	<p>🎵 Perhaps I'll be able to become the Sun<br>🗣️ TUYU<br>💿 It's Raining After All<br>&nbsp;⚧&ensp;J-Rock<br>📅 2020<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=QMBa3LoJh6w" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1LQcrhpa0W1MYD9T_JRO34efy7awxxoxX" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

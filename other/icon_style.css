@@ -1,0 +1,117 @@
+.charter-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cm-list {
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    gap: 20px;
+}
+
+.cm-list .cm-list-item {
+    position: relative;
+    cursor: pointer;
+    list-style: none;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255,255,255,0.05);
+    box-shadow: 0 10px 15px rgba(0,0,0,0.5);
+}
+
+.cm-list .cm-list-item .fa {
+    font-size: 2em;
+    -webkit-text-stroke: 2px var(--clr);
+    color: transparent;
+}
+
+.cm-list .cm-list-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    border-bottom: 4px solid var(--clr);
+    transition: 0.3s ease-in-out;
+    font-family: fontAwesome;
+    text-align: center;
+    font-size: 2em;
+    color: var(--clr);
+    line-height: 51px;
+    overflow: hidden;
+}
+
+.cm-list .cm-list-item:hover::before {
+    height: 100%;
+}
+
+.cm-list .cm-list-item:nth-child(1)::before {
+    content: '\f16a';
+}
+
+.cm-list .cm-list-item:nth-child(2)::before {
+    content: '\f16a';
+}
+
+.cm-list img {
+    height: 32px;
+    width: auto;
+}
+
+.cm-list .cm-list-item .fa-brands {
+    font-size: 1.5em;
+}
+
+
+/* none item */
+
+.cm-list .cm-list-item-2 {
+    position: relative;
+    cursor: pointer;
+    list-style: none;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
+}
+
+.cm-list .cm-list-item-2 .fa {
+    font-size: 2em;
+    -webkit-text-stroke: 2px var(--clr);
+    color: transparent;
+}
+
+.cm-list .cm-list-item-2::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    border-bottom: 4px solid var(--clr);
+    transition: 0.3s ease-in-out;
+    font-family: fontAwesome;
+    text-align: center;
+    font-size: 2em;
+    color: var(--clr);
+    line-height: 51px;
+    overflow: hidden;
+}
+
+.cm-list .cm-list-item-2:hover::before {
+    height: 100%;
+}
+
+.cm-list .c3-ico {
+    height: 20px;
+    width: auto;
+}

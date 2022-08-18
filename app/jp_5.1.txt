@@ -1,0 +1,17 @@
+<!-- Card jp_5.1 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=19JS-BcVu0JTTldTD4QN4ij62mBC7gTpk" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LizNoir - The Last Chance</h5>
+	<p>🎵 The Last Chance<br>🗣️ LizNoir<br>💿 The Last Chance<br>&nbsp;⚧&ensp;Idol, Games<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1acCKXbpo15iMDI6sNNLcglXbLqtiIf2J?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

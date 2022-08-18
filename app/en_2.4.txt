@@ -1,0 +1,17 @@
+<!-- Card en_2.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1WLL4xplYl9gi3zCnwZJ3S3BvoZG-kjfx" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - Crimson Bloom</h5>
+	<p>🎵 Crimson Bloom<br>🗣️ LEAF XCEED Music Division<br>💿 Fragments Of Time<br>&nbsp;⚧&ensp;Instumental<br>📅 2014<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1Xf837zoJEJEG1zkiElWZPr6_wBk0qaCM" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="utube.com/watch?v=6YnO3Fk3Hjw" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1ZMuFzvtFUlr8FqBkcc_dD8Bhre2dbhUe" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

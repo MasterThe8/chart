@@ -1,0 +1,17 @@
+<!-- Card kr_1.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1hjErmEv4HvQeqRLQp_sJVPP0qVbaDzfn" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Girl's Day - Something</h5>
+	<p>🎵 Something<br>🗣️ Girl's Day<br>💿 Girl's Day Every Day III<br>&nbsp;⚧&ensp;K-Pop<br>📅 2014<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1GbEdqecJov6uL4zSHNfqQldBM9uT1ddb" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=m5kfre0KjG0" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1hCtUMyKizhexKT8hT_OeRFpnz-TxgDgV?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

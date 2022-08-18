@@ -1,0 +1,17 @@
+<!-- Card jp_2.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1CcpbXe7Ns4AyYEpRkPRS8o7xws39s-Pj" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>MindaRyn - BLUE ROSE knows</h5>
+	<p>🎵 BLUE ROSE knows<br>🗣️ MindaRyn<br>💿 BLUE ROSE knows<br>&nbsp;⚧&ensp;J-Rock, Anime<br>📅 2020<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=HfxXC5kXDZI" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1sFGEi7D7MjjM47kReN5PolUwPLvXgNz-" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

@@ -1,0 +1,17 @@
+<!-- Card jp_4.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1KHLTSDVBmMnZvLCIS63oFsYMC-gSsM9J" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LizNoir - GIRI-GIRI borderless world</h5>
+	<p>🎵 GIRI-GIRI borderless world<br>🗣️ LizNoir<br>💿 GIRI-GIRI borderless world<br>&nbsp;⚧&ensp;Idol, Games<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1Y0eBdWJZ3m4zWApH3wr1bfWI8eF7MH5b?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

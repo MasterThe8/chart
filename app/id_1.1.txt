@@ -1,0 +1,17 @@
+<!-- Card id_1.1 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1C7eDn3szHRK9QwZ7IZgLtPRJYAMJjDgA" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>ALAM - Gosip</h5>
+	<p>🎵 Gosip<br>🗣️ ALAM<br>💿 The King of Metal Dangdut<br>&nbsp;⚧&ensp;Rock, Dangdut<br>📅 2002<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=jc9zCFNpos8" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1ueQF77cMBLtCPedIbh_yZF5AeHt_f9sa?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

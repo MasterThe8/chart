@@ -1,0 +1,17 @@
+<!-- Card id_2.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1mtBMg84T4kJJcRVW5hAIP9S6YNA0Aohf" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Kotak - Hmmm...</h5>
+	<p>🎵 Hmmm...<br>🗣️ Kotak<br>💿 Long Live Kotak<br>&nbsp;⚧&ensp;Rock<br>📅 2016<br>💥 All Difficulty</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1GbEdqecJov6uL4zSHNfqQldBM9uT1ddb" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="#" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1X7VgjrApY1t1m5dmEQlLtjQpI5ScRDJS?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

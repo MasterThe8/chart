@@ -1,0 +1,17 @@
+<!-- Card jp_2.2 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1PmbI27DBdsyTsyu2WC39IHtgc_tmkHTI" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>GAPsCAPs - NOiSY MONSTER</h5>
+	<p>🎵 NOiSY MONSTER<br>🗣️ GAPsCAPs<br>💿 SELECTION PROJECT Unit Song CD<br>&nbsp;⚧&ensp;J-Rock, Anime<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1Xf837zoJEJEG1zkiElWZPr6_wBk0qaCM" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=b2-UDW0yEvI" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1LC8ozKroRtP0Kp9whnS7Yr1Q-CpebqjA" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

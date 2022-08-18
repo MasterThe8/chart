@@ -1,0 +1,17 @@
+<!-- Card en_3.1 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1iNj7M1vSvMe6hsB6Y9N5DQFADEpdTMQx" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>LEAF XCEED Music Division - First Day High: School Is Magic</h5>
+	<p>🎵 First Day High: School Is Magic<br>🗣️ LEAF XCEED Music Division<br>💿 Website Releases II<br>&nbsp;⚧&ensp;Instrumental<br>📅 2013<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1ZOUDUNPLO09ZVpXx2w-kdvvqL58Sue-3" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=CsFovTvLXJY" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1J1a_hLzYWpP3hBDnyZWqYMexzaK_BDqm" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

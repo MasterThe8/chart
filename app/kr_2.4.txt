@@ -1,0 +1,17 @@
+<!-- Card kr_2.4 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1LQqOM6_YFqfqu9bUIY9Pzm497qtpWhvx" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>TWICE - ICON</h5>
+	<p>🎵 ICON<br>🗣️ TWICE<br>💿 Formula of Love: O+T=<3<br>&nbsp;⚧&ensp;K-Pop<br>📅 2021<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1GX-Yj0_ow0r8pEve9jds53hmht9W-4Lt" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=DBUSrjUyEWs" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/15uKvEofA_gBePHZD1_e0exlHvth3YiE-?usp=sharing" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>

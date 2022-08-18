@@ -1,0 +1,17 @@
+<!-- Card jp_2.3 -->
+<div class="card">
+	<!-- album -->
+	<div class="almeg">
+		<img src="https://drive.google.com/uc?export=view&id=1wUle_JZZc3EC2H0AaSk5u0_B8CHYHEPc" alt="chart_album">
+	</div>
+	<!-- metadata -->
+	<h5>Gyze - Kamuy</h5>
+	<p>🎵 Kamuy<br>🗣️ Gyze<br>💿 Nothern Hell Song<br>&nbsp;⚧&ensp;Metal<br>📅 2017<br>💥 Expert</p>
+	<!-- diff icon -->
+	<div class="diffmg">
+		<img src="https://drive.google.com/uc?export=view&id=1NRuSvwYFHa13aB43hsGOGKC378sX2qu2" style="width:10%">
+	</div>
+	<!-- preview & download -->
+	<a href="https://www.youtube.com/watch?v=PzRJA-XNwFY" target="_blank"><button class="db buttong">Preview</button></a>
+	<a href = "https://drive.google.com/drive/folders/1ihwaMzh_oWmP53tL16ZpMCrcnLbzYlqI" target = "_blank"><button class = "db buttong"> Download</button></a><br>
+</div>
