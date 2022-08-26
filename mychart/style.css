@@ -307,8 +307,8 @@ a {
 }
 
 .card:hover {
-    box-shadow: 0 4px 30px rgb(140, 0, 255);
-    border: 2px solid #fff;
+    /* box-shadow: 0 4px 30px rgb(140, 0, 255);
+    border: 2px solid #fff; */
     border-radius: 20px;
 }
 
